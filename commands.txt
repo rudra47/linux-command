@@ -1,0 +1,7 @@
+//----------*------------//
+//-----Linux Command-----//
+//----------*------------//
+
+1. xinput float <#id> = disable laptop keyboard
+2. xinput reattach <#id> <#slaveKeyboardNumber> = enable laptop keyboard
+3. xinput -list = check list of virtual core keyboard
